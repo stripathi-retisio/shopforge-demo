@@ -1,4 +1,4 @@
-# CONTRIBUTING.md — Contributing to ShopForge
+# CONTRIBUTING.md
 
 First off — thank you for considering contributing! ShopForge is a learning-friendly project and welcomes contributions of all kinds, from bug fixes to new features to documentation improvements.
 
