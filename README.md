@@ -21,7 +21,6 @@ This is **not** a generic ecommerce SaaS or a Shopify clone. It is an operator p
 4. Provisions a starter B2C storefront automatically for each tenant
 5. Gives platform operators a control plane to manage lifecycle, provisioning state, and promotions
 
-> **Phase 1 assumption:** channel = tenant. One tenant maps to one commerce channel. Multi-channel per tenant is Phase 2.
 
 ---
 
